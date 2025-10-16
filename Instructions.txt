@@ -1,7 +1,9 @@
 Hello world
 
-<<<<<<< HEAD
 i am bhavana
-=======
+
 hi this is ridhima
->>>>>>> 5b1c48f923a3d11aca254fb5b667059083c8bb36
+
+hi this is from ridhima branch
+Hi this is Ananya
+
