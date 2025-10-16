@@ -4,5 +4,10 @@ hi this is ridhima
 
 hi this is from ridhima branch
 Hi this is Ananya
+<<<<<<< HEAD
 hi this is sahasra
 ..Ashritha
+=======
+ 
+hi this is ananya from branch
+>>>>>>> f-ananya
